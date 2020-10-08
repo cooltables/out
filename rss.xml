@@ -5,6 +5,12 @@
   <title>Онлайт-таблицы — это круто!</title>
   <link>https://www.cooltables.online</link>
   <description>Приёмы и советы по работе в табличках Google</description>
+  <language>ru-ru</language>
+  <image>
+    <url>https://raw.githubusercontent.com/cooltables/pics/main/logos/logo_short_01.png</url>
+    <title>cooltables.online</title>
+    <link>https://www.cooltables.online</link>
+  </image>
   <item>
     <title>Оглавление таблицы</title>
     <link>https://www.cooltables.online/articles/spreadsheet-header</link>
