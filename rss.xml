@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-	<channel>
-		<title>Онлайт-таблицы — это круто!</title>
-		<link>https://www.cooltables.online/</link>
-		<description>Приёмы и советы по работе в табличках Google</description>
-		<language>ru-ru</language>
-		<copyright>Copyright и всё такое</copyright>
-		<author>Макс Махров</author>
-		<image>
-			<url>https://raw.githubusercontent.com/cooltables/pics/main/logos/logo_short_01.png</url>
-			<title>Лучший сайт для начинающих разработчкиков таблиц/title>
-				<link>https://www.cooltables.online/</link>
-			</image>
-			<item>
-				<title>Оглавление таблицы</title>
-				<link>https://www.cooltables.online/articles/spreadsheet-header</link>
-				<description>Как создать оглавление для таблицы Google на листе, с именами листов и со ссылками на каждый лист</description>
-				<guid>08.10.2020</guid>
-			</item>
-		</channel>
-	</rss>
+
+<channel>
+  <title>Онлайт-таблицы — это круто!</title>
+  <link>https://www.cooltables.online</link>
+  <description>Приёмы и советы по работе в табличках Google</description>
+  <item>
+    <title>Оглавление таблицы</title>
+    <link>https://www.cooltables.online/articles/spreadsheet-header</link>
+    <description>Как создать оглавление для таблицы Google на листе, с именами листов и со ссылками на каждый лист</description>
+</channel>
+
+</rss>
