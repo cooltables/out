@@ -15,7 +15,7 @@
     <title>Оглавление таблицы</title>
     <link>https://www.cooltables.online/articles/spreadsheet-header</link>
     <description>Как создать оглавление для таблицы Google на листе, с именами листов и со ссылками на каждый лист</description>
-    <media:content medium="image" url="https://raw.githubusercontent.com/cooltables/pics/main/articles/cooltables_articles_spreadseet-header_small.jpg" height="500" width = "500"/>
+    <media:content url="https://raw.githubusercontent.com/cooltables/pics/main/articles/cooltables_articles_spreadseet-header_small.jpg" width="" height="" medium="image" type="image/jpg" />    
     <author>makhrov.max@gmail.com</author>
   </item>
 </channel>
