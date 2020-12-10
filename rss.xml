@@ -19,5 +19,14 @@
     <author>makhrov.max@gmail.com (Max Makhrov)</author>
     <guid isPermaLink="false">https://www.cooltables.online/articles/spreadsheet-header</guid>
   </item>
+  <item>
+    <title>Создать таблицу</title>
+    <link>https://www.cooltables.online/articles/new-table</link>
+    <description>10 способов получить таблицу Google
+Как начать работать с онлайн-таблицами Google, из чего состоит ссылка на таблицу, как открывать доступ на копирование при помощи ссылки, как создавать ссылки формулами.</description>
+    <enclosure url="https://raw.githubusercontent.com/cooltables/pics/main/articles/cooltables_articles_new-table_small.jpg" length="18928815" type="image/jpg" />
+    <author>makhrov.max@gmail.com (Max Makhrov)</author>
+    <guid isPermaLink="false">https://www.cooltables.online/articles/new-table</guid>
+  </item>
 </channel>
 </rss>
